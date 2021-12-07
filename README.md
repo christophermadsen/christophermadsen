@@ -32,8 +32,6 @@
 
 ## <img align="center" width="30" src="https://assets.dryicons.com/uploads/icon/svg/7789/cbbc7282-1038-4d16-99bf-53b0bdec0a87.svg"> Get in touch with me
 
-<img width=250 align="right" src="https://media0.giphy.com/media/ZBVRlQamUaAMAOWDHB/giphy.gif?cid=790b7611bb208787c4a399be6459ef8b87d3521fd2a534a8&rid=giphy.gif&ct=g">
-
 - [<img align="center" width="100" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://christophermadsen.github.io/) [**My Personal Website**](https://christophermadsen.github.io/)
 
 - [<img align="center" width="100" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/christopher-buch-madsen/) [**My LinkedIn Profile**](https://www.linkedin.com/in/christopher-buch-madsen/)
