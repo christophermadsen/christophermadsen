@@ -27,10 +27,8 @@
 
 <br />
 
----
-
 ## 🛠 Languages and Tools
-### Python is my language of choice for machine learning
+### [`Python`](https://www.youtube.com/watch?v=QcbR1J_4ICg) is my language of choice for machine learning
 [<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">](https://www.python.org/) 🐍\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^\~ <br>
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/)
 [<img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">](https://numpy.org/)
@@ -46,7 +44,7 @@
 [<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">](https://archlinux.org/)
 [<img alt="Microsoft Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows)
 
-### I practice literate programming through Org-mode, Hydrogen and Jupyter!
+### I practice [`literate programming`](https://en.wikipedia.org/wiki/Literate_programming) through Org-mode, Hydrogen and Jupyter!
 ![Org mode](https://orgmode.org/resources/img/org-mode-unicorn.svg)
 ![Hydrogen](https://camo.githubusercontent.com/a0076b9d69ea4b02d89c95a611140debd250b9962a11946de2315a91ec2ced87/68747470733a2f2f63646e2e7261776769742e636f6d2f6e7465726163742f687964726f67656e2f31376564613234352f7374617469632f616e696d6174652d6c6f676f2e737667)
 <img width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
