@@ -23,7 +23,7 @@
 ## <img align="center" width="30" src="https://cdn-icons.flaticon.com/png/512/5408/premium/5408783.png?token=exp=1638839962~hmac=af5cc5cb4be8fd9335c1f1e299fc5ddb"> I work as a *Data Scientist*
 <img width="250" align="right" src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=790b76112729e20897ed170ef28a96548a7e280f92889ba1&rid=giphy.gif&ct=g">
 
-- 🌱 Currently working as a `Junior Data Scientist` at MLPrograms [<img align="center" width="100" src="https://www.mlprograms.com/wp-content/uploads/2021/05/MLP-Logo-Home-Slider.png">](https://www.mlprograms.com)
+- 🌱 Currently working as a `Junior Data Scientist` at [MLPrograms](https://www.mlprograms.com) [<img align="center" width="100" src="https://www.mlprograms.com/wp-content/uploads/2021/05/MLP-Logo-Home-Slider.png">](https://www.mlprograms.com)
 - 🔭 Future Goals: Keep learning and do what brings me joy!
 
 - 😄 Fun fact: I live with 2 cats, Momo and Chichi! (My girlfriend is here too ❤️)
