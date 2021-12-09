@@ -1,9 +1,3 @@
-[![Spotify](https://novatorem-christophermadsen.vercel.app/)](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17)
-
-
-
-
-
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
 
 
@@ -37,6 +31,11 @@
 <br />
 
 ## <img align="center" width="30" src="https://assets.dryicons.com/uploads/icon/svg/7789/cbbc7282-1038-4d16-99bf-53b0bdec0a87.svg"> Get in touch with me
+
+<!-- [![Spotify](https://novatorem-christophermadsen.vercel.app/api/spotify)](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17) -->
+
+
+[<img align="right" src="https://novatorem-christophermadsen.vercel.app/api/spotify">](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17)
 
 - [<img align="center" width="100" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://christophermadsen.github.io/) [**My Personal Website**](https://christophermadsen.github.io/)
 
