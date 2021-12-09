@@ -1,3 +1,9 @@
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17)
+
+
+
+
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
 
 
