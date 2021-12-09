@@ -1,4 +1,4 @@
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17)
+[![Spotify](https://novatorem-christophermadsen.vercel.app/)](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17)
 
 
 
