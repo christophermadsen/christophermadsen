@@ -44,7 +44,7 @@
 [<img align="left" width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mailhide.io/e/caw60Mo0) [**E-mail**](https://mailhide.io/e/caw60Mo0) -->
   
 
-<div>
+<div align="center">
   <a href="https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17">
     <img align="right" width="600" src="https://novatorem-christophermadsen.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117">
   </a>
