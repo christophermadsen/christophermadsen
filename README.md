@@ -136,7 +136,7 @@
 
 </br></br>
 
-## <div align="center"><img align="center" width="30" src="https://cdn-icons.flaticon.com/png/512/3304/premium/3304172.png?token=exp=1638840250~hmac=1733e29f283a78d8f96eec3bbfa6424d"> Github Stats </div>
+##
 
 <div align="center">
   <img align="middle" src="https://komarev.com/ghpvc/?username=christophermadsen&style=flat">
