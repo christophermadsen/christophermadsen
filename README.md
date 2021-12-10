@@ -1,6 +1,8 @@
 <!-- [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com) -->
 
-# <div align="center"><img align="center" width="100" src="https://cdn-icons.flaticon.com/png/512/2872/premium/2872511.png?token=exp=1638839113~hmac=cd06efee79225a0d836d14673551b197"> My name is `Christopher` - Welcome to my GitHub!<br>But who am I?<div/>
+<!-- # <div align="center"><img align="center" width="100" src="https://cdn-icons.flaticon.com/png/512/2872/premium/2872511.png?token=exp=1638839113~hmac=cd06efee79225a0d836d14673551b197"> My name is `Christopher` - Welcome to my GitHub!<br>But who am I?<div/> -->
+  
+# <div align="center"><img align="center" width="100" src="https://cdn-icons.flaticon.com/png/512/2872/premium/2872511.png?token=exp=1638839113~hmac=cd06efee79225a0d836d14673551b197"> My name is `Christopher`!<br>But who am I?<div/>
 
 <!-- <img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 <!-- <img align="right" alt="GIF" width="400" src="https://media0.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=790b7611c5cbe9bff690985406ceb2b65607e920044400d6&rid=giphy.gif&ct=g" /> -->
@@ -31,17 +33,46 @@
   
 ## <div align="center"><img align="center" width="30" src="https://assets.dryicons.com/uploads/icon/svg/7789/cbbc7282-1038-4d16-99bf-53b0bdec0a87.svg"> Get in touch with me</div>
 
-[<img width="600" align="right" src="https://novatorem-christophermadsen.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117">](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17)
+<!-- [<img width="600" align="right" src="https://novatorem-christophermadsen.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117">](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17)
+  
+[<img align="left" width="150" src="https://forthebadge.com/images/badges/powered-by-coffee.svg">](https://christophermadsen.github.io/) [**Personal**](https://christophermadsen.github.io/)
+  
+[<img align="left" width="150" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/christopher-buch-madsen/) [**LinkedIn**](https://www.linkedin.com/in/christopher-buch-madsen/)
+  
+[<img align="left" width="150" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)">](https://stackoverflow.com/users/10739860/cb-madsen) [**Stack**](https://stackoverflow.com/users/10739860/cb-madsen)
 
-- [<img align="center" width="100" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://christophermadsen.github.io/) [**My Personal Website**](https://christophermadsen.github.io/)
+[<img align="left" width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mailhide.io/e/caw60Mo0) [**E-mail**](https://mailhide.io/e/caw60Mo0) -->
+  
 
-- [<img align="center" width="100" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/christopher-buch-madsen/) [**My LinkedIn Profile**](https://www.linkedin.com/in/christopher-buch-madsen/)
+<div>
+  <a href="https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17">
+    <img align="right" width="600" src="https://novatorem-christophermadsen.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117">
+  </a>
 
-- [<img align="center" width="100" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)">](https://stackoverflow.com/users/10739860/cb-madsen) [**My StackOverflow**](https://stackoverflow.com/users/10739860/cb-madsen)
+  <a href="https://christophermadsen.github.io/">
+    <img width="150" src="https://svgshare.com/i/cfm.svg">
+  </a>
+  </br>
 
-- [<img align="center" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mailhide.io/e/caw60Mo0) [**Send me an E-mail**](https://mailhide.io/e/caw60Mo0)
 
-</br>
+  <a href="https://www.linkedin.com/in/christopher-buch-madsen/">
+    <img width="150" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  </br>
+
+
+  <a href="https://stackoverflow.com/users/10739860/cb-madsen">
+    <img width="150" src="https://svgshare.com/i/cgd.svg">
+  </a>
+  </br>
+
+
+  <a href="https://mailhide.io/e/caw60Mo0">
+    <img width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+</br></br>
 
 ## <div align="center">🛠 Languages and Tools</div>
 ### <div align="center">[`Python`](https://www.youtube.com/watch?v=QcbR1J_4ICg) is my language of choice for machine learning</div>
