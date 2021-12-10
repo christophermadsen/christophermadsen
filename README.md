@@ -20,7 +20,7 @@
 <div align="center"><br/><img src="https://media1.giphy.com/media/iF5u0zSYlbZwr2aeiz/giphy.gif?cid=790b76113a07e75b0a252483e6036809da06bf78a6d436d3&rid=giphy.gif&ct=g"></div>
 
 <div>
-<img width="250" align="right" src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=790b76112729e20897ed170ef28a96548a7e280f92889ba1&rid=giphy.gif&ct=g">
+<img width="220" align="right" src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=790b76112729e20897ed170ef28a96548a7e280f92889ba1&rid=giphy.gif&ct=g">
   
 - 🌱 Currently employed as a <code class="inlinecode">Junior Data Scientist</code> at <a href="https://www.mlprograms.com"><a/><a href="https://www.mlprograms.com"><img align="center" width="100" src="https://www.mlprograms.com/wp-content/uploads/2021/05/MLP-Logo-Home-Slider.png"><a/>
 - 🔭 Future Goals: Keep learning and do what brings me joy!
