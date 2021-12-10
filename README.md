@@ -19,9 +19,6 @@
   
 <div align="center"><br/><img src="https://media1.giphy.com/media/iF5u0zSYlbZwr2aeiz/giphy.gif?cid=790b76113a07e75b0a252483e6036809da06bf78a6d436d3&rid=giphy.gif&ct=g"></div>
 
-
-
-
 <div>
 <img width="250" align="right" src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=790b76112729e20897ed170ef28a96548a7e280f92889ba1&rid=giphy.gif&ct=g">
   
@@ -30,15 +27,9 @@
   
 - 😄 Fun fact: I live with 2 cats, Momo and Chichi! (My girlfriend is here too ❤️)
 </div>
-<br/>
-
-<!-- - 🌱 Currently employed as a `Junior Data Scientist` at [MLPrograms](https://www.mlprograms.com) [<img align="center" width="100" src="https://www.mlprograms.com/wp-content/uploads/2021/05/MLP-Logo-Home-Slider.png">](https://www.mlprograms.com)
-   -->
+</br>
   
-## <div align="center"><img align="center" width="30" src="https://assets.dryicons.com/uploads/icon/svg/7789/cbbc7282-1038-4d16-99bf-53b0bdec0a87.svg"> Get in touch with me<div/>
-
-<!-- [![Spotify](https://novatorem-christophermadsen.vercel.app/api/spotify)](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17) -->
-
+## <div align="center"><img align="center" width="30" src="https://assets.dryicons.com/uploads/icon/svg/7789/cbbc7282-1038-4d16-99bf-53b0bdec0a87.svg"> Get in touch with me</div>
 
 [<img width="600" align="right" src="https://novatorem-christophermadsen.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117">](https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17)
 
@@ -50,19 +41,12 @@
 
 - [<img align="center" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mailhide.io/e/caw60Mo0) [**Send me an E-mail**](https://mailhide.io/e/caw60Mo0)
 
-<br />
+</br>
 
-## <div align="center">🛠 Languages and Tools<div/>
-### <div align="center">[`Python`](https://www.youtube.com/watch?v=QcbR1J_4ICg) is my language of choice for machine learning<div/>
+## <div align="center">🛠 Languages and Tools</div>
+### <div align="center">[`Python`](https://www.youtube.com/watch?v=QcbR1J_4ICg) is my language of choice for machine learning</div>
+  
 <div align="center">
-<!-- [<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">](https://www.python.org/) 🐍\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~^~v\~ <br>
-[<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/)
-[<img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">](https://numpy.org/)
-[<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">](https://scikit-learn.org/stable/)
-[<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">](https://pytorch.org/)
-[<img alt="pytorch-lightning" src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorch Lightning&logoColor=white">](https://www.pytorchlightning.ai/) -->
-  
-  
   <a href="https://www.python.org/">
     <img width="200" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <a/>
@@ -85,55 +69,60 @@
   <a href="https://www.pytorchlightning.ai/">
     <img alt="pytorch-lightning" src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorch Lightning&logoColor=white">
   <a/>
-<div/>
-    
-<!-- <a href="https://github.com/microsoft/LightGBM">
-  <img width="150" alt="LightGBM" src="https://raw.githubusercontent.com/microsoft/LightGBM/a91e4b2d1877d86030d2de5d07e9257aebc9f143/docs/logo/LightGBM_logo_black_text.svg">
-<a/> -->
+</div>
 
-### Other tools I use
-[<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">](https://git-scm.com/)
-[<img alt="GNU Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">](https://www.gnu.org/software/emacs/)
-[<img alt="Atom Editor" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">](https://atom.io/)
-[<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">](https://www.latex-project.org/)
-[<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">](https://archlinux.org/)
-[<img alt="Microsoft Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">](https://www.microsoft.com/en-us/windows)
-
-<!-- ### I practice [`literate programming`](https://en.wikipedia.org/wiki/Literate_programming) through Org-mode, Hydrogen and Jupyter! -->
-<div align="center">
-  <h3>I practice<a href="dr.dk"> literate programming <a/>through Org-mode, Hydrogen and Jupyter!<h1/>
-<div/>
-
-<!-- ![Org mode](https://orgmode.org/resources/img/org-mode-unicorn.svg)
-![Hydrogen](https://camo.githubusercontent.com/a0076b9d69ea4b02d89c95a611140debd250b9962a11946de2315a91ec2ced87/68747470733a2f2f63646e2e7261776769742e636f6d2f6e7465726163742f687964726f67656e2f31376564613234352f7374617469632f616e696d6174652d6c6f676f2e737667) -->
+</br>
 
 <div align="center">
+  <h3>Other tools I use</h3>
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <a/>
+  <a href="https://www.gnu.org/software/emacs/">
+    <img alt="GNU Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
+  <a/>
+  <a href="https://atom.io/">
+    <img alt="Atom Editor" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
+  <a/>
+  <a href="https://www.latex-project.org/">
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+  <a/>
+  <a href="https://archlinux.org/">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+  <a/>
+  <a href="https://www.microsoft.com/en-us/windows">
+    <img alt="Microsoft Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <a/>
+</div>
+
+</br>
+
+<div align="center">
+  <h3>I practice<a href="https://en.wikipedia.org/wiki/Literate_programming"> literate programming </a>through Org-mode, Hydrogen and Jupyter!</h1></br>
   <a href="https://orgmode.org/">
     <img src="https://orgmode.org/resources/img/org-mode-unicorn.svg">
-  <a/>
+  </a>
   <a href="https://github.com/nteract/hydrogen">
     <img src="https://camo.githubusercontent.com/a0076b9d69ea4b02d89c95a611140debd250b9962a11946de2315a91ec2ced87/68747470733a2f2f63646e2e7261776769742e636f6d2f6e7465726163742f687964726f67656e2f31376564613234352f7374617469632f616e696d6174652d6c6f676f2e737667">
-  <a/>
+  </a>
   <a href="https://jupyter.org/">
     <img width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-  <a/>
-<div/>
+  </a>
+</div>
 
+</br></br>
 
-<br/>
+## <div align="center"><img align="center" width="30" src="https://cdn-icons.flaticon.com/png/512/3304/premium/3304172.png?token=exp=1638840250~hmac=1733e29f283a78d8f96eec3bbfa6424d"> Github Stats </div>
 
-
-### <img align="center" width="30" src="https://cdn-icons.flaticon.com/png/512/3304/premium/3304172.png?token=exp=1638840250~hmac=1733e29f283a78d8f96eec3bbfa6424d"> Github Stats 
-
-<div align="center"><img align="middle" src="https://komarev.com/ghpvc/?username=christophermadsen&style=flat"></div><br>
-
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=christophermadsen&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophermadsen&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+<div align="center">
+  <img align="middle" src="https://komarev.com/ghpvc/?username=christophermadsen&style=flat">
+  <br>
+  <a href="">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=christophermadsen&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophermadsen&theme=react&line_height=40&hide=css"/>
+  </a>
+</div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=christophermadsen&theme=react-dark&hide_border=true&area=true)
