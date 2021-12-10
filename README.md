@@ -48,25 +48,18 @@
   <a href="https://open.spotify.com/user/zba15s8y1o725cljh2gexlt17">
     <img align="right" width="600" src="https://novatorem-christophermadsen.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117">
   </a>
-
   <a href="https://christophermadsen.github.io/">
-    <img width="150" src="https://svgshare.com/i/cge.svg">
+    <img width="150" src="https://svgshare.com/i/cfU.svg">
   </a>
   </br>
-
-
   <a href="https://www.linkedin.com/in/christopher-buch-madsen/">
     <img width="150" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   </br>
-
-
   <a href="https://stackoverflow.com/users/10739860/cb-madsen">
     <img width="150" src="https://svgshare.com/i/cgd.svg">
   </a>
   </br>
-
-
   <a href="https://mailhide.io/e/caw60Mo0">
     <img width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
