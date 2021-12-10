@@ -50,7 +50,7 @@
   </a>
 
   <a href="https://christophermadsen.github.io/">
-    <img width="150" src="https://svgshare.com/i/cfm.svg">
+    <img width="150" src="https://svgshare.com/i/cf4.svg">
   </a>
   </br>
 
