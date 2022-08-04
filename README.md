@@ -2,7 +2,7 @@
 
 <!-- # <div align="center"><img align="center" width="100" src="https://cdn-icons.flaticon.com/png/512/2872/premium/2872511.png?token=exp=1638839113~hmac=cd06efee79225a0d836d14673551b197"> My name is `Christopher` - Welcome to my GitHub!<br>But who am I?<div/> -->
   
-# <div align="center"><img align="center" width="100" src="https://cdn-icons.flaticon.com/png/512/2872/premium/2872511.png?token=exp=1638839113~hmac=cd06efee79225a0d836d14673551b197"> My name is `Christopher`!<br>But who am I?<div/>
+# <div align="center">Hiya! I'm `Christopher Buch Madsen`!<br> Here's a brief page about me.<div/>
 
 <!-- <img align="right" alt="GIF" width="250" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 <!-- <img align="right" alt="GIF" width="400" src="https://media0.giphy.com/media/6vj5quVNRhoQw/giphy.gif?cid=790b7611c5cbe9bff690985406ceb2b65607e920044400d6&rid=giphy.gif&ct=g" /> -->
@@ -19,15 +19,16 @@
 - 🌳 Nature Lover
 - 🇩🇰 Dane in NL 🇳🇱 -->
   
-<div align="center"><br/><img src="https://media1.giphy.com/media/iF5u0zSYlbZwr2aeiz/giphy.gif?cid=790b76113a07e75b0a252483e6036809da06bf78a6d436d3&rid=giphy.gif&ct=g"></div>
+<div align="center"><br/><img src="https://media.giphy.com/media/phHuiaAA4KLdUwO7y1/giphy.gif"><div/>
+<div align="center">
 
-<div>
-<img width="220" align="right" src="https://media1.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=790b76112729e20897ed170ef28a96548a7e280f92889ba1&rid=giphy.gif&ct=g">
+- 🌱 Currently employed as a <code class="inlinecode">Junior Data Scientist</code> at <a href="https://www.mlprograms.com"><a/><a href="https://www.mlprograms.com"><img align="center" width="100" src="https://www.mlprograms.com/wp-content/uploads/2021/05/MLP-Logo-Home-Slider.png"><a/><br/>
+
+- 🔭 Future Goals: Keep learning and do what brings me joy!<br/>
+
+- 😄 A fun fact: I live with my girlfriend and our 2 cats, Momo and Chichi!<br/>
   
-- 🌱 Currently employed as a <code class="inlinecode">Junior Data Scientist</code> at <a href="https://www.mlprograms.com"><a/><a href="https://www.mlprograms.com"><img align="center" width="100" src="https://www.mlprograms.com/wp-content/uploads/2021/05/MLP-Logo-Home-Slider.png"><a/>
-- 🔭 Future Goals: Keep learning and do what brings me joy!
-  
-- 😄 Fun fact: I live with 2 cats, Momo and Chichi! (My girlfriend is here too ❤️)
+- Originally from Denmark, currently residing in the Netherlands
 </div>
 </br>
   
@@ -68,7 +69,7 @@
 </br></br>
 
 ## <div align="center">🛠 Languages and Tools</div>
-### <div align="center">[`Python`](https://www.youtube.com/watch?v=QcbR1J_4ICg) is my language of choice for machine learning</div>
+### <div align="center">Python is my language of choice for machine learning</div>
   
 <div align="center">
   <a href="https://www.python.org/">
@@ -136,7 +137,7 @@
 
 </br></br>
 
-##
+<!-- ##
 
 <div align="center">
   <img align="middle" src="https://komarev.com/ghpvc/?username=christophermadsen&style=flat">
@@ -149,4 +150,4 @@
   </a>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=christophermadsen&theme=react-dark&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=christophermadsen&theme=react-dark&hide_border=true&area=true) -->
