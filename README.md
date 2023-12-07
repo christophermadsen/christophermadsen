@@ -81,8 +81,8 @@ Originally from Denmark, currently residing in the Netherlands
   <a href="https://www.latex-project.org/">
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
   <a/>
-  <a href="https://archlinux.org/">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+  <a href="https://en.wikipedia.org/wiki/SQL">
+    <img alt="SQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whitee">
   <a/>
   <a href="https://www.microsoft.com/en-us/windows">
     <img alt="Microsoft Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
