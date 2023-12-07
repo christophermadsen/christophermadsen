@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-🌱 Currently employed as a <code class="inlinecode">Junior Data Scientist</code> at <a href="https://www.mlprograms.com"><a/><a href="https://www.mlprograms.com"><img align="center" width="100" src="https://www.mlprograms.com/wp-content/uploads/2021/05/MLP-Logo-Home-Slider.png"><a/><br/>
+🌱 A data scientist by profession (currently looking for work)<br/>
 🔭 Future Goals: Keep learning and do what brings me joy!<br/>
 😄 A fun fact: I live with my girlfriend and our 2 cats, Momo and Chichi!<br/>
 Originally from Denmark, currently residing in the Netherlands
