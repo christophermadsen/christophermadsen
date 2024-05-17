@@ -7,9 +7,9 @@
 
 <br>
 <div align="center">
-🌱 A data scientist by profession (currently looking for work)<br/>
+🌱 Senior Data Scientist @Mews<br/>
 🔭 Future Goals: Keep learning and do what brings me joy!<br/>
-😄 A fun fact: In 2023 I scaled 3 volcanoes in 3 countries (and my cat's name is Chichi)<br/>
+😄 A fun fact: In 2023 I scaled 3 volcanoes in 3 countries (and my cat's name is Chichi🐱)<br/>
 Originally from Denmark, currently residing in the Netherlands
 </div>
 </br>
