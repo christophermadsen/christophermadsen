@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-🌱 Senior Data Scientist @Mews (still learning every day!)<br/>
+🌱 Senior Data Scientist (@Mews)[https://www.mews.com/en] (still learning every day!)<br/>
 🔭 Future Goals: Keep learning and do what brings me joy!<br/>
 😄 A fun fact: In 2023 I scaled 3 volcanoes in 3 countries (and my cats' names are Chichi and Moogle🐱)<br/>
 Originally from Denmark, currently living in the Netherlands
