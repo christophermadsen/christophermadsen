@@ -92,18 +92,16 @@ Originally from Denmark, currently living in the Netherlands
 </br>
 
 <div align="center">
-  <h3>I practice<a href="https://en.wikipedia.org/wiki/Literate_programming"> literate programming </a>through Org-mode and Jupyter!</h1></br>
+  <h3>I practice<a href="https://en.wikipedia.org/wiki/Literate_programming"> literate programming </a>through Org-mode, Jupyter and Databricks!</h1></br>
   <a href="https://orgmode.org/">
     <img src="https://orgmode.org/resources/img/org-mode-unicorn.svg">
   </a>
   
-  <!--
-  <a href="https://github.com/nteract/hydrogen">
-    <img src="https://camo.githubusercontent.com/a0076b9d69ea4b02d89c95a611140debd250b9962a11946de2315a91ec2ced87/68747470733a2f2f63646e2e7261776769742e636f6d2f6e7465726163742f687964726f67656e2f31376564613234352f7374617469632f616e696d6174652d6c6f676f2e737667">
-  </a>
-  -->
-  
   <a href="https://jupyter.org/">
     <img width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+  </a>
+
+  <a href="https://www.databricks.com/">
+    <img width="130" src="https://gcdnb.pbrd.co/images/B3E2puz0tcuH.png?o=1">
   </a>
 </div>
