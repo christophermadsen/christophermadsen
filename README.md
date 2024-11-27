@@ -21,7 +21,7 @@ Originally from Denmark, currently living in the Netherlands
     <img align="right" width="600" src="https://novatorem-christophermadsen.vercel.app/api/spotify/?background_color=0D1117&border_color=0D1117">
   </a>
   <a href="https://christophermadsen.github.io/">
-    <img width="150" src="https://svgshare.com/i/cfU.svg">
+    <img width="150" src="https://forthebadge.com/images/featured/featured-built-with-love.svg">
   </a>
   </br>
   <a href="https://www.linkedin.com/in/christopher-buch-madsen/">
@@ -29,7 +29,7 @@ Originally from Denmark, currently living in the Netherlands
   </a>
   </br>
   <a href="https://stackoverflow.com/users/10739860/cb-madsen">
-    <img width="150" src="https://svgshare.com/i/cgd.svg">
+    <img width="150" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
   </br>
   <a href="https://mailhide.io/e/caw60Mo0">
