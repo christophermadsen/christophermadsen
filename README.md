@@ -65,6 +65,9 @@ Originally from Denmark, currently living in the Netherlands
   <a href="https://www.pytorchlightning.ai/">
     <img alt="pytorch-lightning" src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorch Lightning&logoColor=white">
   <a/>
+  <a href="https://mlflow.org/">
+    <img alt="pytorch-lightning" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue">
+  <a/>
 </div>
 
 </br>
