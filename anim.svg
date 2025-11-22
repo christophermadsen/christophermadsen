@@ -1,4 +1,4 @@
-<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
   <defs>
     <!-- Vaporwave color gradients -->
     <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -46,7 +46,7 @@
   </defs>
 
   <!-- Background gradient sky -->
-  <rect width="800" height="300" fill="url(#skyGradient)"/>
+  <rect width="800" height="600" fill="url(#skyGradient)"/>
 
   <!-- Stars -->
   <circle cx="100" cy="25" r="1.5" fill="#05ffa1">
@@ -204,6 +204,108 @@
     <use href="#wave" x="800" y="200" opacity="0.1">
       <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
     </use>
+
+    <!-- Wave 21 -->
+    <use href="#wave" x="0" y="210" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="210" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="220" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="220" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="230" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="230" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="240" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="240" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="250" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="250" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="260" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="260" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="270" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="270" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="280" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="280" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="290" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="290" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="300" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="300" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="310" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="310" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="390" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="390" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+
+    <use href="#wave" x="0" y="400" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+    <use href="#wave" x="800" y="400" opacity="0.1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="30s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Glowing text between waves -->
+  <g filter="url(#strongGlow)">
+    <text x="400" y="460" font-family="'Courier New', Courier, monospace" font-size="32" font-weight="bold" text-anchor="middle" fill="#01cdfe" stroke="#01cdfe" stroke-width="0.2">
+      SENIOR DATA SCIENTIST
+    </text>
+    <text x="400" y="460" font-family="'Courier New', Courier, monospace" font-size="32" font-weight="bold" text-anchor="middle" fill="url(#neonGradient)" opacity="0.9">
+      SENIOR DATA SCIENTIST
+    </text>
   </g>
 
   <!-- Scanlines overlay -->
@@ -221,5 +323,5 @@
     <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
     <stop offset="100%" stop-color="#000000" stop-opacity="0.4"/>
   </radialGradient>
-  <rect width="800" height="300" fill="url(#vignette)"/>
+  <rect width="800" height="600" fill="url(#vignette)"/>
 </svg>
