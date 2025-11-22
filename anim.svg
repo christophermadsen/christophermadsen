@@ -1,108 +1,95 @@
-<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" style="background:#000" preserveAspectRatio="xMidYMid meet">
   <defs>
-
-    <!-- Layer 1: Base soft fractal field -->
-    <filter id="field1">
-      <feTurbulence type="fractalNoise"
-                    baseFrequency="0.002 0.004"
-                    numOctaves="4"
-                    seed="2"
-                    result="t1">
-        <animate attributeName="baseFrequency"
-                 values="0.002 0.004;0.0015 0.003;0.0025 0.005;0.002 0.004"
-                 dur="40s"
-                 repeatCount="indefinite" />
-      </feTurbulence>
-      <feGaussianBlur stdDeviation="20" />
-    </filter>
-
-    <!-- Layer 2: Higher-frequency structure -->
-    <filter id="field2">
-      <feTurbulence type="fractalNoise"
-                    baseFrequency="0.008 0.003"
-                    numOctaves="5"
-                    seed="9"
-                    result="t2">
-        <animate attributeName="baseFrequency"
-                 values="0.008 0.003;0.006 0.002;0.009 0.004;0.008 0.003"
-                 dur="30s"
-                 repeatCount="indefinite" />
-      </feTurbulence>
-      <feGaussianBlur stdDeviation="5" />
-    </filter>
-
-    <!-- Layer 3: Very subtle micro-texture -->
-    <filter id="field3">
-      <feTurbulence type="fractalNoise"
-                    baseFrequency="0.02 0.02"
-                    numOctaves="2"
-                    seed="5"
-                    result="t3">
-        <animate attributeName="seed"
-                 values="5;10;5"
-                 dur="25s"
-                 repeatCount="indefinite" />
-      </feTurbulence>
-      <feGaussianBlur stdDeviation="1" />
-    </filter>
-
-
-    <!-- Combine fields into one organic noise texture -->
-    <filter id="combined">
-      <feBlend in="SourceGraphic" in2="t1" mode="overlay" />
-      <feBlend in="SourceGraphic" in2="t2" mode="soft-light" />
-      <feBlend in="SourceGraphic" in2="t3" mode="screen" />
-    </filter>
-
-
-    <!-- Vaporwave gradient palette -->
-    <linearGradient id="vgrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff71ce" />
-      <stop offset="50%" stop-color="#01cdfe" />
-      <stop offset="100%" stop-color="#05ffa1" />
+    <linearGradient id="neonGradient" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#ff71ce"/>
+      <stop offset="20%" stop-color="#01cdfe"/>
+      <stop offset="50%" stop-color="#05ffa1"/>
+      <stop offset="80%" stop-color="#01cdfe"/>
+      <stop offset="100%" stop-color="#ff71ce"/>
     </linearGradient>
 
-    <!-- Color cycling -->
-    <filter id="colorize">
-      <feColorMatrix type="hueRotate" values="0">
-        <animate attributeName="values"
-                 from="0" to="360"
-                 dur="60s"
-                 repeatCount="indefinite" />
-      </feColorMatrix>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#ff71ce" flood-opacity="0.6"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#01cdfe" flood-opacity="0.5"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#05ffa1" flood-opacity="0.4"/>
     </filter>
 
-    <!-- Final “drifting fog” warp to simulate smooth Perlin motion -->
-    <filter id="warp">
-      <feTurbulence type="fractalNoise"
-                    baseFrequency="0.003"
-                    numOctaves="3"
-                    seed="4"
-                    result="warpfield">
-        <animate attributeName="baseFrequency"
-                 values="0.003;0.002;0.004;0.003"
-                 dur="50s"
-                 repeatCount="indefinite" />
-      </feTurbulence>
-
-      <feDisplacementMap in="SourceGraphic"
-                         in2="warpfield"
-                         scale="70" />
-    </filter>
-
+    <path id="wave" fill="none" stroke="url(#neonGradient)" stroke-width="6" d="
+      M 0 100
+      Q 100 80 200 100
+      T 400 100
+      T 600 100
+      T 800 100
+    "/>
   </defs>
 
-  <!-- Background gradient -->
-  <rect width="100%" height="100%" fill="url(#vgrad)" />
+  <g filter="url(#glow)">
+    <!-- 8 wave lines, each with 2 copies for seamless looping -->
 
-  <!-- Layered textures -->
-  <rect width="100%" height="100%" filter="url(#field1)" opacity="0.8" />
-  <rect width="100%" height="100%" filter="url(#field2)" opacity="0.45" />
-  <rect width="100%" height="100%" filter="url(#field3)" opacity="0.25" />
+    <!-- Wave 1 -->
+    <use href="#wave" x="0" y="0" opacity="0.85">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-800 0" dur="12s" repeatCount="indefinite" />
+    </use>
+    <use href="#wave" x="800" y="0" opacity="0.85">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-800 0" dur="12s" repeatCount="indefinite" />
+    </use>
 
-  <!-- Combine + color cycle + warp -->
-  <rect width="100%" height="100%"
-        filter="url(#combined) url(#colorize) url(#warp)"
-        opacity="0.75" />
+    <!-- Wave 2 -->
+    <use href="#wave" x="0" y="20" opacity="0.75">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="20 0" to="-780 0" dur="14s" repeatCount="indefinite" />
+    </use>
+    <use href="#wave" x="800" y="20" opacity="0.75">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="20 0" to="-780 0" dur="14s" repeatCount="indefinite" />
+    </use>
 
+    <!-- Wave 3 -->
+    <use href="#wave" x="0" y="40" opacity="0.65">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="40 0" to="-760 0" dur="16s" repeatCount="indefinite" />
+    </use>
+    <use href="#wave" x="800" y="40" opacity="0.65">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="40 0" to="-760 0" dur="16s" repeatCount="indefinite" />
+    </use>
+
+    <!-- Wave 4 -->
+    <use href="#wave" x="0" y="60" opacity="0.55">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="60 0" to="-740 0" dur="18s" repeatCount="indefinite" />
+    </use>
+    <use href="#wave" x="800" y="60" opacity="0.55">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="60 0" to="-740 0" dur="18s" repeatCount="indefinite" />
+    </use>
+
+    <!-- Wave 5 -->
+    <use href="#wave" x="0" y="80" opacity="0.45">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="80 0" to="-720 0" dur="20s" repeatCount="indefinite" />
+    </use>
+    <use href="#wave" x="800" y="80" opacity="0.45">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="80 0" to="-720 0" dur="20s" repeatCount="indefinite" />
+    </use>
+
+    <!-- Wave 6 -->
+    <use href="#wave" x="0" y="100" opacity="0.35">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="100 0" to="-700 0" dur="22s" repeatCount="indefinite" />
+    </use>
+    <use href="#wave" x="800" y="100" opacity="0.35">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="100 0" to="-700 0" dur="22s" repeatCount="indefinite" />
+    </use>
+
+    <!-- Wave 7 -->
+    <use href="#wave" x="0" y="120" opacity="0.25">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="120 0" to="-680 0" dur="24s" repeatCount="indefinite" />
+    </use>
+    <use href="#wave" x="800" y="120" opacity="0.25">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="120 0" to="-680 0" dur="24s" repeatCount="indefinite" />
+    </use>
+
+    <!-- Wave 8 -->
+    <use href="#wave" x="0" y="140" opacity="0.15">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="140 0" to="-660 0" dur="26s" repeatCount="indefinite" />
+    </use>
+    <use href="#wave" x="800" y="140" opacity="0.15">
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="140 0" to="-660 0" dur="26s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <rect width="800" height="300" fill="url(#neonGradient)" opacity="0.12" />
 </svg>
