@@ -1,0 +1,108 @@
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+
+    <!-- Layer 1: Base soft fractal field -->
+    <filter id="field1">
+      <feTurbulence type="fractalNoise"
+                    baseFrequency="0.002 0.004"
+                    numOctaves="4"
+                    seed="2"
+                    result="t1">
+        <animate attributeName="baseFrequency"
+                 values="0.002 0.004;0.0015 0.003;0.0025 0.005;0.002 0.004"
+                 dur="40s"
+                 repeatCount="indefinite" />
+      </feTurbulence>
+      <feGaussianBlur stdDeviation="20" />
+    </filter>
+
+    <!-- Layer 2: Higher-frequency structure -->
+    <filter id="field2">
+      <feTurbulence type="fractalNoise"
+                    baseFrequency="0.008 0.003"
+                    numOctaves="5"
+                    seed="9"
+                    result="t2">
+        <animate attributeName="baseFrequency"
+                 values="0.008 0.003;0.006 0.002;0.009 0.004;0.008 0.003"
+                 dur="30s"
+                 repeatCount="indefinite" />
+      </feTurbulence>
+      <feGaussianBlur stdDeviation="5" />
+    </filter>
+
+    <!-- Layer 3: Very subtle micro-texture -->
+    <filter id="field3">
+      <feTurbulence type="fractalNoise"
+                    baseFrequency="0.02 0.02"
+                    numOctaves="2"
+                    seed="5"
+                    result="t3">
+        <animate attributeName="seed"
+                 values="5;10;5"
+                 dur="25s"
+                 repeatCount="indefinite" />
+      </feTurbulence>
+      <feGaussianBlur stdDeviation="1" />
+    </filter>
+
+
+    <!-- Combine fields into one organic noise texture -->
+    <filter id="combined">
+      <feBlend in="SourceGraphic" in2="t1" mode="overlay" />
+      <feBlend in="SourceGraphic" in2="t2" mode="soft-light" />
+      <feBlend in="SourceGraphic" in2="t3" mode="screen" />
+    </filter>
+
+
+    <!-- Vaporwave gradient palette -->
+    <linearGradient id="vgrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff71ce" />
+      <stop offset="50%" stop-color="#01cdfe" />
+      <stop offset="100%" stop-color="#05ffa1" />
+    </linearGradient>
+
+    <!-- Color cycling -->
+    <filter id="colorize">
+      <feColorMatrix type="hueRotate" values="0">
+        <animate attributeName="values"
+                 from="0" to="360"
+                 dur="60s"
+                 repeatCount="indefinite" />
+      </feColorMatrix>
+    </filter>
+
+    <!-- Final “drifting fog” warp to simulate smooth Perlin motion -->
+    <filter id="warp">
+      <feTurbulence type="fractalNoise"
+                    baseFrequency="0.003"
+                    numOctaves="3"
+                    seed="4"
+                    result="warpfield">
+        <animate attributeName="baseFrequency"
+                 values="0.003;0.002;0.004;0.003"
+                 dur="50s"
+                 repeatCount="indefinite" />
+      </feTurbulence>
+
+      <feDisplacementMap in="SourceGraphic"
+                         in2="warpfield"
+                         scale="70" />
+    </filter>
+
+  </defs>
+
+  <!-- Background gradient -->
+  <rect width="100%" height="100%" fill="url(#vgrad)" />
+
+  <!-- Layered textures -->
+  <rect width="100%" height="100%" filter="url(#field1)" opacity="0.8" />
+  <rect width="100%" height="100%" filter="url(#field2)" opacity="0.45" />
+  <rect width="100%" height="100%" filter="url(#field3)" opacity="0.25" />
+
+  <!-- Combine + color cycle + warp -->
+  <rect width="100%" height="100%"
+        filter="url(#combined) url(#colorize) url(#warp)"
+        opacity="0.75" />
+
+</svg>
