@@ -91,12 +91,7 @@
 
 
     <!-- Wave 7 -->
-    <use href="#wave" x="0" y="60" opacity="0.6">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="16s" repeatCount="indefinite"/>
-    </use>
-    <use href="#wave" x="800" y="60" opacity="0.6">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="16s" repeatCount="indefinite"/>
-    </use>
+
 
     <!-- Wave 8 -->
     <use href="#wave" x="0" y="70" opacity="0.55">
